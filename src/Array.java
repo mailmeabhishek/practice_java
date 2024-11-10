@@ -1,7 +1,8 @@
 import java.util.Arrays;
+import java.util.List;
 
 public class Array {
-    public static void main(String args[])
+    public static void main(String[] args)
     {
         //asList method
 //        Integer arr[] = {10,20,11,21,31};

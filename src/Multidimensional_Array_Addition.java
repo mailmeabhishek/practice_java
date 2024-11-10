@@ -1,5 +1,5 @@
 public class Multidimensional_Array_Addition {
-    public static void main(String args[]){
+    public static void main(String[] args){
         int n = 3;
         int m = 3;
         int[][] matrixA = {

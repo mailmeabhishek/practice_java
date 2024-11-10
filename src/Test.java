@@ -5,7 +5,7 @@ class Student1 {
 }
 
 public class Test {
-    public static void main (String args){
+    public static void main (String[] args){
     Student1 obj[] = new Student1[3];
 
     obj[0] = new Student1(1,"Bharat");
