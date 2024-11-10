@@ -1,5 +1,5 @@
 public class Multidimensional_Array_3D {
-    public static void main(String[] args) {
+    public static void main(String args[]) {
         int totalStudents = 3;
         int subjects = 4;
         int totalSemesters = 2;
